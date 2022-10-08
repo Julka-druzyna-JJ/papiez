@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+    color: rgb(68, 90, 151);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+p {
+    color: rgb(0, 0, 0);
+}
+h1 {
+    background-color: rgb(109, 220, 251);
+}
+h3 {
+    background-color: blue;
+    color: cadetblue;
+}
+img{
+  height: 300px;  
+} 
